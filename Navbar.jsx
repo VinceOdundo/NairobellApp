@@ -60,7 +60,7 @@ function Navbar() {
           {
             q: originalContent,
             target: language,
-            key: "AIzaSyDsyyoGe1RN71YkNmeU32aso_a-bSdFuPA",
+           // key: "Add GOOGLE TRANSLATE API and uncomment",
           }
         );
         const translatedContent =
